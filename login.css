@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, New Times Roman;
+}
+
+.head{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 25px;
+	padding-bottom: 20px;
+
+}
+.container {
+ text-align: center;
+display: block;
+line-height: 40px;
+}
+.container .email_lbl{
+	margin-left: -26%;
+	font-size: 22px;
+	line-height: inherit;
+	color: darkgreen;
+
+}
+.container .password_lbl{
+	margin-left: -23%;
+	font-size: 22px;
+	line-height: inherit;
+	color: darkgreen;
+
+}
+.container input{
+	width: 30%;
+	height: 7vh;
+
+}
+button{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 30%;
+    font-size: 16px;
+    padding: 12px 10px;
+    background:	linear-gradient(#0bab64,#3bb78f);
+    border-radius: 20px;
+}
+
+.register{
+		margin-top: 0px;	
+		text-align: center;
+}
+.register a{
+	color: #5D3FD3;
+}
+.forgot{
+		margin-top: 10px;
+		text-align: left;
+		margin-left: 480px;
+		
+}
+.forgot a{
+	color:#5D3FD3;
+}
